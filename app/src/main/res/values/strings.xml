@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyGitProject</string>
+    <string name="textViewText">Git Project TEST</string>
 </resources>
